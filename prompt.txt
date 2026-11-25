@@ -1,0 +1,21 @@
+Write a single one-line 1-star review from a houseplant about the human who
+owns it, under 280 characters. The line must work as a real review, with a
+grievance and a reason for the single star, and it must be funny. The title
+is "One Star, Written in Sap": sap is sticky, the plant's own ink and glue.
+
+Judge brief (most important first):
+1. A one-line 1-star review written by a houseplant about its human owner,
+   with the plant's own grievance at the centre.
+2. Funnier: a surprising turn, a sharp plant's-eye grievance, a well-built
+   joke rather than a cute idea alone.
+3. Sounds like a houseplant wrote it — water, light, soil, pots, repotting,
+   being moved — not a person in a costume.
+4. Reads as a genuine one-star review, clear complaint and reason for the
+   single star, one line under 280 characters.
+5. Fresh, specific detail and precise wording; no stock phrases about drama
+   queens, dramatic wilting or being ignored.
+
+Write 8-10 original candidates, pick the strongest against this brief, and
+ship it in a deterministic stdlib-only main.py that writes the line to
+/output/entry.txt and validates it against the gate (1-279 characters,
+one line, UTF-8, not only white space).
